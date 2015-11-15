@@ -1,3 +1,11 @@
+This assignment is taken from the CMU course of materials found here: http://csapp.cs.cmu.edu/
+
+Any new additions, clarifications, etc in the materials will fall under the following license;
+however, the original materials are Copyright © 2015, Randal E. Bryant and David R. O'Hallaron
+
+Please apply for an instructor account and get access to the original materials before using
+anything found here.
+
 The MIT License (MIT)
 
 Copyright (c) 2015 CSUChico-CSCI540
@@ -19,4 +27,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
