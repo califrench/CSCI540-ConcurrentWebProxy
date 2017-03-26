@@ -4,7 +4,7 @@ LDFLAGS = -lpthread
 
 OBJS = proxy.o csapp.o
 
-all: proxy proxy-handout.c
+all: proxy proxy.c
 
 proxy: $(OBJS)
 	gcc $(CFLAGS) proxy.o csapp.o -o proxy $(LDFLAGS)
